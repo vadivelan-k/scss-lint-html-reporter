@@ -30,7 +30,7 @@
   },
   "homepage": "https://github.com/ratherblue/scss-lint-html-reporter",
   "dependencies": {
-    "hairballs": "0.2.0"
+    "hairballs": "github:vadivelan-k/hairballs#master"
   },
   "devDependencies": {
     "chai": "3.5.0",
